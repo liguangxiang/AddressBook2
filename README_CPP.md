@@ -9,7 +9,7 @@ mastering of C++.
 # Note!!! (For submit your code)
 
  * Fork me and use pull request to submit changes to `develop` branch. Anything unclear about the feature, fire issue on github.
- * You should submit your source code and pom file
+ * You should submit your source code and Makefile
  * Remember this is the only place to submit your code, not by email. Tip: do some basic learning of github
 
 
